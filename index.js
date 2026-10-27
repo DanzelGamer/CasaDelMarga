@@ -2,6 +2,6 @@ let header = document.getElementById("header");
 let button = document.getElementById("button1");
 
 button.onclick = function(){
-    header.textContent = "Danzel Is Gay (Pero Di Totoo)";
+    header.textContent = "Made By Your One And Only DanzelGamer, Youtube: @DanzelGamer ";
     header.style.color = "pink";
 }
