@@ -1,4 +1,3 @@
-
 let header = document.getElementById("header");
 let button = document.getElementById("button1");
 let clicked = false;
